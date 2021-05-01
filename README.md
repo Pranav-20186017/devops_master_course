@@ -1,1 +1,1 @@
-"# devops_master_course" 
+**A Complete Devops Course custom built to make you industry ready**
